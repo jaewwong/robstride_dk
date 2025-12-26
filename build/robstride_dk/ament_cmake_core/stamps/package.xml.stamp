@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+
+  <name>robstride_dk</name>
+  <version>0.0.0</version>
+  <description>RobStride motor driver node</description>
+
+  <maintainer email="todo@TODO.com">TODO</maintainer>
+  <author email="todo@TODO.com">TODO</author>
+
+  <license>MIT</license>
+
+  <!-- 빌드 도구 -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- 이 패키지가 사용하는 의존성들 -->
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>robstride_motor_msgs</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+
+</package>

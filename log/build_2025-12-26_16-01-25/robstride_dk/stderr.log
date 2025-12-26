@@ -1,0 +1,4 @@
+gmake[2]: *** [CMakeFiles/robstride_dk_node.dir/build.make:90: CMakeFiles/robstride_dk_node.dir/src/robstride_driver.cpp.o] Interrupt
+gmake[2]: *** [CMakeFiles/robstride_dk_node.dir/build.make:76: CMakeFiles/robstride_dk_node.dir/src/robstride_dk_node.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/robstride_dk_node.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

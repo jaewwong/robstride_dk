@@ -1,0 +1,4 @@
+source;share/robstride_dk/local_setup.bash
+source;share/robstride_dk/local_setup.dsv
+source;share/robstride_dk/local_setup.sh
+source;share/robstride_dk/local_setup.zsh
